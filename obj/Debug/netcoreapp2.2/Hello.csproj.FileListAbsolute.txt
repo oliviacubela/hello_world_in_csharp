@@ -1,0 +1,12 @@
+/Users/oliviacubela/hello_world_in_csharp/bin/Debug/netcoreapp2.2/Hello.deps.json
+/Users/oliviacubela/hello_world_in_csharp/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.json
+/Users/oliviacubela/hello_world_in_csharp/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.dev.json
+/Users/oliviacubela/hello_world_in_csharp/bin/Debug/netcoreapp2.2/Hello.dll
+/Users/oliviacubela/hello_world_in_csharp/bin/Debug/netcoreapp2.2/Hello.pdb
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.csprojAssemblyReference.cache
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.AssemblyInfoInputs.cache
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.AssemblyInfo.cs
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.dll
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.pdb
+/Users/oliviacubela/hello_world_in_csharp/obj/Debug/netcoreapp2.2/Hello.genruntimeconfig.cache
